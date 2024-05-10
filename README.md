@@ -8,12 +8,12 @@
 #### Original dataset link: https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
 #### Dataset
      - Dataset contains 24 features and 400 samples.
-     - Features
-     ####  age	  -	age	
-     ####  bp	  -	blood pressure
-     ####  sg	  -	specific gravity
-     ####  al	  -     albumin
-     ####   su	  -	sugar
+#### Features
+#####  age	  -	age	
+#####  bp	  -	blood pressure
+#####  sg	  -	specific gravity
+#####  al	  -     albumin
+#####  su	  -	sugar
 	   rbc	  -	red blood cells
 	   pc	  -	pus cell
 	   pcc	  -	pus cell clumps

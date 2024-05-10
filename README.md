@@ -8,7 +8,7 @@
 #### Original dataset link: https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
 #### Dataset
      - Dataset contains 24 features and 400 samples.
-         age	-	age	
+         - age	 -	age	
 			bp		-	blood pressure
 			sg		-	specific gravity
 			al		-   albumin

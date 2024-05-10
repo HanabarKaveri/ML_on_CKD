@@ -11,26 +11,26 @@
 #### Features
 #####  age	  -	age	
 #####  bp	  -	blood pressure
-#####  sg	  -	specific gravity
-#####  al	  -     albumin
-#####  su	  -	sugar
-	   rbc	  -	red blood cells
-	   pc	  -	pus cell
-	   pcc	  -	pus cell clumps
-	   ba	  -	bacteria
-	   bgr    -	blood glucose random
-	   bu	  -	blood urea
-	   sc	  -	serum creatinine
-	   sod	  -	sodium
-	   pot	  -	potassium
-	   hemo	  -	hemoglobin
-	   pcv	  -	packed cell volume
-	   wc	  -	white blood cell count
-	   rc	  -	red blood cell count
-	   htn	  -	hypertension
-	   dm	  -	diabetes mellitus
-	   cad	  -	coronary artery disease
-	   appet  -	appetite
-	   pe	  -	pedal edema
-	   ane	  -	anemia
-	   class  -	class
+#####  specific gravity	  -	specific gravity
+#####  albumin	  -     albumin
+#####  sugar	  -	sugar
+#####  rbc	  -	red blood cells
+#####  pus cell	  -	pus cell
+#####  pus cell clumps	  -	pus cell clumps
+#####  bacteria	  -	bacteria
+#####  blood glucose random        -	blood glucose random
+#####  blood urea	  -	blood urea
+#####  serum creatinine	  -	serum creatinine
+#####  sodium	  -	sodium
+#####  potassium	  -	potassium
+#####  hemoglobin	  -	hemoglobin
+#####  packed cell volume	  -	packed cell volume
+#####  white blood cell count	  -	white blood cell count
+#####  red blood cell count	  -	red blood cell count
+#####  hypertension	  -	hypertension
+#####  diabetes mellitus	  -	diabetes mellitus
+#####  coronary artery disease	  -	coronary artery disease
+#####  appetite      -	appetite
+#####  pedl edema	  -	pedal edema
+#####  anemia	  -	anemia
+#####  classification      -	class

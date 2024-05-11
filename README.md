@@ -33,4 +33,5 @@
 #####  pedl edema	  -	pedal edema
 #####  anemia	  -	anemia
 #####  classification      -	class
-#### The methodologies used are preprocessing, exploratory data analysis and machine learning. The data preprocessing involves handling missing values and converting categorical data into numerical format. Exploratory data analysis is conducted to understand the relationships between different features and their impact on chronic kidney disease (CKD). Machine learning models, such as Support Vector Machine (SVM) and Bagging Classifier, are applied to the dataset for predicting CKD. These methodologies collectively aim to gain insights and predict the occurrence of chronic kidney disease based on clinical indicators.
+### Methodology
+The methodologies used are preprocessing, exploratory data analysis and machine learning. The data preprocessing involves handling missing values and converting categorical data into numerical format. Exploratory data analysis is conducted to understand the relationships between different features and their impact on chronic kidney disease (CKD). Machine learning models, such as Support Vector Machine (SVM) and Bagging Classifier, are applied to the dataset for predicting CKD. These methodologies collectively aim to gain insights and predict the occurrence of chronic kidney disease based on clinical indicators.

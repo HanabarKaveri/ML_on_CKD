@@ -4,10 +4,9 @@
    - EDA
    - Applying SVM and Bagging methods
 ### About Data Description
-#### We have taken dataset from link: https://www.kaggle.com/datasets/mahmoudlimam/preprocessed-chronic-kidney-disease-dataset
 #### Original dataset link: https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
 #### Dataset
-     - Dataset contains 24 features and 400 samples.
+   - Dataset contains 24 features and 400 samples.
 #### Features
 #####  age	  -	age	
 #####  bp	  -	blood pressure
